@@ -24,6 +24,7 @@
 .header h1 .seo {
     color: #d9dcd6;
 }
+
  /*Styling the headers*/
 .header div {
     padding-top: 15px;
@@ -42,10 +43,14 @@
     margin-left: 25px;
 }
  /*Styling the div ul and li elements*/
-a {
+ 
+li {
     color: #dfe2e5;
     text-decoration: none;
+    display: inline;
+    text-align: right;
 }
+
 /*Set elemnet a tow white.*/
 p {
     font-size: 16px;
